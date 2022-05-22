@@ -1,2 +1,2 @@
 # now_we_add_CSS
- styles for onltHTML file
+ styles for onlyHTML file
