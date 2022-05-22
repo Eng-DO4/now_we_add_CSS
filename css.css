@@ -27,8 +27,8 @@ h2{
 }
 
 section{
-	width:30%;
-	margin-right: 2%;
+	width:22%;
+	margin: 0 1.5%;
 	display: inline-block;
 	float: left;
 }
@@ -45,6 +45,14 @@ footer{
 	background: #00b7ea;
 	height:100px;
 	clear: both;
+}
+
+*{
+    overflow-x: auto;
+}
+
+progress{
+    width: 100%;
 }
 
 img{
